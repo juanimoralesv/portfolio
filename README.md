@@ -13,7 +13,7 @@ Mis trabajos más recientes se encuentran en los siguientes repositorios:
 - [Repositorio de la Carrera de Data Scientist](https://github.com/juanimoralesv/2024-coderhouse-datascience/blob/main/README.md), dictado en Coderhouse
 
 ## Portfolio Contents
-This is the main page of my professional portfolio. To contact me, you can send me an email at [juanimoralesv@yahoo.com.ar](mailto:juanimoralesv@yahoo.com.ar), or through my [LinkedIn profile](https://www.linkedin.com/in/juanigmv/).
+This is the main page of my professional portfolio. To contact me, you can send me an email at [juanimoralesv@yahoo.com.ar](mailto:juanimoralesv@yahoo.com.ar), or through my [LinkedIn profile](https://www.linkedin.com/in/juanigmv/?locale=en_US).
 
 My most recent work can be found in the following repositories:
 - [Python Course Repository](https://github.com/juanimoralesv/2025-Python-Bootcamp/blob/main/README.md), taught by José Portilla on Udemy
