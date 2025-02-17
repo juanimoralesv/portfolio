@@ -2,7 +2,7 @@
 
 ## Índice
 - [Contenidos del Portfolio](#contenidos-del-portfolio) (Español)
-- [Portfoliio Contents](#portfolio-contents) (English)
+- [Portfolio Contents](#portfolio-contents) (English)
 
 ## Contenidos del Portfolio
 Esta es la página principal de mi portfolio profesional. Para contactarme, pueden enviarme un correo a la dirección [juanimoralesv@yahoo.com.ar](mailto:juanimoralesv@yahoo.com.ar), o a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/juanigmv/).
